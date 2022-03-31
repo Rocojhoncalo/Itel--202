@@ -24,7 +24,7 @@
 <label for="text">Type Text:</label><br>		 	<input type="text" id="text" name="text"><br> 	<label for="email">Type email:</label><br> 			<input type="email" id="email" name="email"><br>	<label for="pwd">Type Password:</label><br>		 	
 <input type="password" id="pwd" name="pwd"><br>					
 
-<h2 class = "name" > Phone</h2>
+<h2 class = "name" >Phone</h2>
 <input class = "code"> <type = "text"  name="area code">
 <label class ="area code" > Area code</label>
 <input class = "number"> <type = "text"  name=" phone">
