@@ -2,7 +2,7 @@
 
 <html >
   <head >
-   <title >REGISTRATION FORM</title >
+
    <body>
      <div class = " Regform" ><h1> Registration Form</h1></div>
       <div class  = "name">
