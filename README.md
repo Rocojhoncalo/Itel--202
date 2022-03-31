@@ -27,9 +27,9 @@
 <h2 class "name" > GENDER</h2>
 <label for ="name"  class radio inline>
 <input type = "radio" name = "gender" value "M" 
-Id = "male" > MALE </label>
+Id = "male"> MALE </label>
 <input type = "radio" name = "gender" value "F" 
-Id = "female" > FEMALE </label>
+Id = "female"> FEMALE </label>
 <input type = "radio" name = "gender" value "O" 
 Id = "other" > OTHER </label>
 
