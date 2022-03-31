@@ -36,7 +36,9 @@ Id = "other" > OTHER </label>
 <h2>Buttons </h2>
  <input type="button" onclick="alert('Hello World!')" value="Click Me!"><br>
  <input type="submit" value="Submit"><br>
- <input type="Delete " value="Delete"><br>			
+ <input type="Delete " value="Delete"><br>	
+</body> 
+</html >
 
 
 
