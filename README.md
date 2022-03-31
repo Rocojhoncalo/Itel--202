@@ -1,15 +1,15 @@
 # Itel--202
-<! DOCTYPE html>
+
 <html >
   <head >
-   <title ></title >
+   <title >REGISTRATION FORM</title >
    <body>
      <div class = " Regform" ><h1> Registration Form</h1></div>
       <div class  = "name">
-      <form>
-      <div id = "name" >
-       <h2 class = "name" > Name </h2>
-        <input class = "firstname"> <type = "text"  name="firstname">
+      
+      
+  <h2 class = "name" > Name </h2>
+  <input class = "firstname"> <type = "text"  name="firstname">
  <label class ="first label" >first name </label>
  <input class = "lastname"> <type = "text"  name="lastname">
  <label class ="last label" >lastname </label>
